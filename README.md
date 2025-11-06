@@ -1,5 +1,7 @@
 # 🇵🇱 AGH Habitat-PL
-*A starter repository for the course **Machine Learning for Space Applications** (AGH 2025/26)*
+**Machine Learning for Space Applications** (AGH 2025/26)
+
+**Unit 1** Lecture Notes: https://docs.google.com/presentation/d/1CwavVDRfOkeS8XSVHwxrlJiIxZjiZET94Lw5JWVGPJE
 
 ---
 
