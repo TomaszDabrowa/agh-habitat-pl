@@ -16,7 +16,7 @@ layout = widgets.Layout(
     border='1px solid gray',
     width='250px',
     height='350px',        # 👈 adjust height here
-    padding='5px'
+    padding='4px' #5px
 )
 
 legend_dict = {
